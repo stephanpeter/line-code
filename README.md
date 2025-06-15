@@ -1,6 +1,8 @@
 # line-code
 Symbolic manuscript decryption challenge – €500 prize &amp; co-authorship
 
+DOI of Line-codes: http://dx.doi.org/10.13140/RG.2.2.14390.41284
+
 Call for Scientific Contributions –
 A Symbolic System Awaiting Decryption
 Introduction
